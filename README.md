@@ -22,6 +22,8 @@ Analizar imágenes médicas digitales, particularmente radiografías, extrayendo
 - [Chart::Plotly](https://metacpan.org/pod/Chart::Plotly)
 - Kernel **IPerl** en Jupyter Notebooks
 
+**Palabras clave**: análisis de imágenes médicas, radiografía, perfil de intensidad, PDL, OpenCV en Perl.
+
 ---
 
 ## 📂 Archivos
