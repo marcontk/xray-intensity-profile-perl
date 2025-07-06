@@ -20,7 +20,7 @@ Analizar imágenes médicas digitales, particularmente radiografías, extrayendo
 - [PDL (Perl Data Language)](https://pdl.perl.org/)
 - [PDL::OpenCV](https://metacpan.org/pod/PDL::OpenCV)
 - [Chart::Plotly](https://metacpan.org/pod/Chart::Plotly)
-- Kernel **IPerl** en Jupyter Notebooks
+- [iPerl Jupyter kernel plugin](https://github.com/EntropyOrg/p5-Devel-IPerl)
 
 **Palabras clave**: análisis de imágenes médicas, radiografía, perfil de intensidad, PDL, OpenCV en Perl.
 
